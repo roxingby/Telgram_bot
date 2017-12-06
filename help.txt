@@ -1,0 +1,11 @@
+Welcome to Roberto's bot.
+Roberto's bot answers to the following commands:
+
+/balance - write here the equation you want to balance
+/checkbalance - write here the equation you want to check whether it's balanced or not
+/getElements - write here an equation(or just a reaction) to see its elements
+
+Always write the equation in the form of: 'H2 + O2 == H2O'
+If you want to check a reaction with /getElements you can write it in the form of: '2H2 + O2'
+
+You can write /help to let this message appear again.
